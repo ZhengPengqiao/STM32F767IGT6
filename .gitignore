@@ -36,3 +36,4 @@
 .tag*
 *.map
 *.bin
+build
